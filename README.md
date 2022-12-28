@@ -1,5 +1,5 @@
-2022년 12월 28일 수요일
-[김종진] [오후 6:03] [김현오] [오후 6:03] # TABLE FOOD
+
+# TABLE FOOD
 
 1. PRIMARY KEY (food_pk)
 2. 음식의 이름 (food_name)
